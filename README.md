@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<## ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,python,mysql,pandas,git,github" />!--
 **kb1218/kb1218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
