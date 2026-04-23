@@ -4,12 +4,19 @@
 I build scalable cloud systems, automate workflows, and turn data into impactful solutions
 
 🌐 About Me
+
 🔭 Currently working on Cloud + DevOps + AI projects
+
 ☁️ Skilled in building infrastructure using AWS (EC2, VPC, RDS, S3, EKS)
+
 ⚙️ Passionate about CI/CD, Kubernetes, Docker & Automation
+
 📊 Love working with data analytics & real-world datasets
+
 🤖 Exploring AI-powered scalable applications
+
 🎯 Goal: Build production-ready, intelligent cloud systems
+
 
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,python,mysql,pandas,git,github" />
