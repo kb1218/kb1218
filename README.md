@@ -1,4 +1,6 @@
-## Hi there 👋
+## ⚙️ DevOps | ☁️ AWS | 🐳 Docker | ☸️ Kubernetes
+📊 Data Analytics | 🤖 AI Projects
+Building, automating & scaling everything 🚀
 
 
 
